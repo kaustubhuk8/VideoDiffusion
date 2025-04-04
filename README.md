@@ -103,10 +103,6 @@ If you get authentication errors for HuggingFace models:
 ```bash
 huggingface-cli login
 ```
-2. Accept the model terms at:
-   - https://huggingface.co/CompVis/stable-diffusion-v1-4
-   - https://huggingface.co/ali-vilab/i2vgen-xl
-   - https://huggingface.co/guoyww/animatediff-motion-adapter-v1-5-2 (for motion adapter)
 
 ### Performance Issues
 For better performance:
