@@ -18,7 +18,7 @@ A hybrid text-to-video pipeline combining Stable Diffusion and I2VGenXL with adv
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/EpicDiffusion.git
+git clone https://github.com/kaustubhuk8/VideoDiffusion.git
 cd EpicDiffusion
 ```
 
@@ -36,7 +36,6 @@ pip install -r requirements.txt
 pip install python-dotenv
 
 # Setup configuration
-cp .env.example .env
 nano .env  # Add your credentials
 
 # Required:
