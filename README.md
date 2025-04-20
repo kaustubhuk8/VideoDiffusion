@@ -2,7 +2,6 @@
 
 ![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![PyTorch Version](https://img.shields.io/badge/pytorch-2.0+-red.svg)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A hybrid text-to-video pipeline combining Stable Diffusion and I2VGenXL with advanced features for storytelling applications.
 
