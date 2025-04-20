@@ -113,7 +113,3 @@ pip install accelerate
 If video generation is disabled:
 1. Check if the I2VGenXL model is available
 2. Try alternative models like "cerspense/zeroscope_v2_576w"
-
-## License
-
-MIT License - See [LICENSE](LICENSE) for details.
